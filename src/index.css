@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+@theme {
+  --color-primary: #0042B8;
+  --color-primary-500: #0961FF;
+  --color-primary-400: #9EC1FF;
+  --color-primary-300: #E5EFFF;
+  --color-primary-100: #F5F8FF;
+  --color-primary-200: #CBD5E1;
+
+  --color-secondary: #331E99;
+  --color-secondary-500: #5C43DA;
+  --color-secondary-400: #B9AEEF;
+  --color-secondary-300: #EDEAFB;
+  --color-secondary-100: #F8F6FD;
+
+  --font-lato: 'Lato', sans-serif;
+  --font-roboto: 'Roboto', sans-serif;
+}
